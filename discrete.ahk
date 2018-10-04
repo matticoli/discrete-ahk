@@ -6,3 +6,6 @@
 !0::Send {U+2205}
 !-::Send {U+2192}
 !=::Send {U+2260}
+!a::Send {U+2227}
+!o::Send {U+2228}
+!`::Send {U+00AC}
