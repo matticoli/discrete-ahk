@@ -12,6 +12,8 @@
 !a::Send {U+2227}  ; Alt+a = ∧
 !o::Send {U+2228}  ; Alt+o = ∨
 !`::Send {U+00AC}  ; Alt+` = ¬
-!p::Send {U+2118} ; Alt+p = 𝒫
+!p::Send {U+03A6} ; Alt+p = Φ
+!+p::Send {U+2118} ; Alt+shift+p = 𝒫
 !s::Send {U+03A3} ; Alt+s = Σ
 !l::Send {U+03BB} ; Alt+l = ƛ
+!+o::Send {U+03A9} ; Alt+shift+o = Ω
