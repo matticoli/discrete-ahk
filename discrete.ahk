@@ -20,3 +20,5 @@
 !+o::Send {U+03A9} ; Alt+shift+o = Ω
 !d::Send {U+03B4} ; Alt+shift+d = δ
 !=::Send {U+21D2}  ; Alt+= = ⇒
+!g::Send {U+0393}  ; Alt+g = Γ
+
