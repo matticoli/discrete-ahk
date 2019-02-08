@@ -21,4 +21,4 @@
 !d::Send {U+03B4} ; Alt+shift+d = δ
 !=::Send {U+21D2}  ; Alt+= = ⇒
 !g::Send {U+0393}  ; Alt+g = Γ
-
+!+a::Send {U+03B1}  ; Alt+shift+a = α
